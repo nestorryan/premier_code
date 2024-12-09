@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1732048473 source:/home/nestor/Documents/code_c/premier_code/main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "addition.C": "cpp",
+        "stdio.h": "c"
+    }
+}
